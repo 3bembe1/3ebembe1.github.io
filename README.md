@@ -1,4 +1,3 @@
-# 3ebembe1.github.io
 PointBlank
 Тайм-менеджмент
 
