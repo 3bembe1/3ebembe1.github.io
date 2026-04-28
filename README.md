@@ -5,4 +5,4 @@ PointBlank
 Колков Богдан Миколайович
 Ніконов Костянтин Володимирович
 
-Посилання на сторінку https://3bembe1.github.io/OPI-lab-2/
+Посилання на сторінку [https://3bembe1.github.io/OPI-lab-2/](https://3bembe1.github.io/OPI-PointBlank/)
